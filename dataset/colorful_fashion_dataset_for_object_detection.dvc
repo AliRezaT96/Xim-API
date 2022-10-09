@@ -1,0 +1,5 @@
+outs:
+- md5: 27a0800a3b38ad6c3423d3460d2d1fef.dir
+  size: 219981820
+  nfiles: 8051
+  path: colorful_fashion_dataset_for_object_detection
