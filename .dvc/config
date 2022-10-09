@@ -1,0 +1,4 @@
+[core]
+    remote = imagedatapath
+['remote "imagedatapath"']
+    url = G:\Datasets\image
